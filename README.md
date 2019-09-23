@@ -14,3 +14,4 @@ yarn start or npm start
 ### TODO
 - Compiler options - https://devexpress.github.io/testcafe/documentation/test-api/typescript-support.html#customize-compiler-options
 - Config file - https://devexpress.github.io/testcafe/documentation/using-testcafe/programming-interface/runner.html#tsconfigpath
+- before and after - https://devexpress.github.io/testcafe/documentation/test-api/test-code-structure.html#initialization-and-clean-up
